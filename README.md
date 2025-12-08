@@ -1,6 +1,5 @@
 This is the group project I completed with my group.
 
-The title is Prediction Model for Delayed Flights.
 ---------------------------------------------------------
 Project title : Prediction Model for Delayed Flights
 
