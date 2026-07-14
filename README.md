@@ -93,8 +93,8 @@ classification threshold and model hyperparameters.
 
 ## Project Materials
 
-- [View the Final Report](docs/DS410_Final_Report.pdf)
-- [View the Presentation](docs/DS410_Presentation.pdf)
-- [Download the Original PowerPoint](docs/DS410_Presentation.pptx)
+- [View the Final Report](./DS410%20project%20report.pdf)
+- [View the Presentation](./410%20Presentation.pdf)
+- [Download the Original PowerPoint](./410%20Presentation.pptx)
 - [View the Modeling Notebook](Models.ipynb)
 - [View the Visualization Notebook](Visualizations.ipynb)
